@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-pano_8",
-      "name": "pano_8",
+      "name": "Entrance",
       "levels": [
         {
           "tileSize": 256,
@@ -47,7 +47,7 @@ var APP_DATA = {
     },
     {
       "id": "1-pano_1",
-      "name": "pano_1",
+      "name": "Driveway",
       "levels": [
         {
           "tileSize": 256,
@@ -91,7 +91,7 @@ var APP_DATA = {
     },
     {
       "id": "2-pano_2",
-      "name": "pano_2",
+      "name": "Courtyard",
       "levels": [
         {
           "tileSize": 256,
@@ -141,7 +141,7 @@ var APP_DATA = {
     },
     {
       "id": "3-pano_4",
-      "name": "pano_4",
+      "name": "Plot 1",
       "levels": [
         {
           "tileSize": 256,
@@ -179,7 +179,7 @@ var APP_DATA = {
     },
     {
       "id": "4-pano_5",
-      "name": "pano_5",
+      "name": "Plot 2",
       "levels": [
         {
           "tileSize": 256,
@@ -229,7 +229,7 @@ var APP_DATA = {
     },
     {
       "id": "5-pano_6",
-      "name": "pano_6",
+      "name": "Plot 3",
       "levels": [
         {
           "tileSize": 256,
@@ -273,7 +273,7 @@ var APP_DATA = {
     },
     {
       "id": "6-pano_7",
-      "name": "pano_7",
+      "name": "Plot 4",
       "levels": [
         {
           "tileSize": 256,
